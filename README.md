@@ -14,6 +14,8 @@ Azure Pipelines is a commonly used software that automates the testing and build
 Sources
 •	What is continuous integration? – Amazon web services. (n.d.). Amazon Web Services, Inc. https://aws.amazon.com/devops/continuous-integration/
 •	Sacolick, I. (2022, April 15). What is CI/CD? Continuous integration and continuous delivery explained. InfoWorld. https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html
+•	Riglian, A. (2019, November 22). What is Jenkins and how does it work? Software Quality. https://www.techtarget.com/searchsoftwarequality/definition/Jenkins
 •	What is continuous integration? (n.d.). IBM - United States. https://www.ibm.com/topics/continuous-integration
 •	Rehkopf, M. (n.d.). Continuous integration tools: Top 7 comparison. Atlassian. https://www.atlassian.com/continuous-delivery/continuous-integration/tools
 •	Pittet, S. (n.d.). Continuous integration vs. delivery vs. deployment. Atlassian. https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
+•	(n.d.). katalon.com. https://katalon.com/
