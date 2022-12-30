@@ -1,17 +1,12 @@
 # CI-challange
 An explanation of continuous integration and continuous delivery (CI/CD)
 
-
-Continuous integration (CI) and continuous delivery (CD) are software development practices that rapidly deliver quality software products to end users. Continuous integration is the process of developers merging code which is then saved in a repository and automatically built and tested. If the build is successful, developers will be notified, and it will be moved to acceptance testing. Continuous delivery is an expansion of CI where code is automatically prepared for production with some manual approval of code changes. CI and CD are critical practices of DevOps where they reduce time to market and increase productivity and collaboration. 
-
-
-
-
-Azure Pipelines is a commonly used software that automates the testing and building of code for CI/CD operating on the cloud. Gitlab is a software repository which is a collaborative software devolvement environment commonly used for DevOps projects. The use of software repositories such as GitLab reduces merge conflicts by committing several code changes, thus avoiding ‘merge hell’ where software versions are conflicting. 
+Continuous integration (CI) and continuous delivery (CD) are software development practices that rapidly deliver quality software products to end users. CI and CD are critical practices of DevOps where they reduce time to market and increase productivity and collaboration. Continuous integration is the process of developers merging code which is then saved in a repository and automatically built and tested. If the build is successful, developers will be notified, and it will be moved to acceptance testing. Continuous delivery is an expansion of CI where code is automatically prepared for production with some manual approval of code changes. Furthermore, continuous delivery also improves customer satisfaction since the ready release of software allows developers to fix bugs and meet user needs promptly.
 
 
 
 
+Azure Pipelines is a commonly used software that automates the testing and building of code for CI/CD operating on the cloud. Azure Pipelines also offers private and public code repositories. Jenkins is another popular software used for implementing continuous integration and continuous delivery pipelines, automatically building and testing software. GitLab is a software repository that is a collaborative software devolvement environment commonly used for DevOps projects. The use of software repositories such as GitLab reduces merge conflicts by committing several code changes, thus avoiding ‘merge hell’ where software versions are conflicting. Katalon Studio is an automated mobile/web testing tool that can create test cases manually. Katalon also allows for integration with Jenkins, GitLab, and other CI/CD workflow pipelines. 
 
 
 
