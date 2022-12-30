@@ -2,14 +2,12 @@
 An explanation of continuous integration and continuous delivery (CI/CD)
 
 
-
-Continuous integration (CI) and continuous delivery (CD) are software development practices aimed at rapidly delivering quality software products to end users. 
-Continuous integration sees developers writing out coding collaboratively which is then saved in a repository then automatically built and tested. If the build is successful developers will be notified and it will be moved to acceptance testing. The benefit of continuous integration is that while multiple developers work on the same project with no errors or bugs will occur due to an incompatible system thus avoiding ‘merge hell’ where software versions are conflicting.
-Continuous delivery is an expansion of CI where code is automatically prepared for production with some manual approval of code changes. 
-
-The practice of CI/CD utilises delivery pipelines to test, build and deploy software such as Azure Pipelines. Continuous integration also implements software repositories like Gitlab for versioning control allowing multiple developers to work the same project.  
+Continuous integration (CI) and continuous delivery (CD) are software development practices that rapidly deliver quality software products to end users. Continuous integration is the process of developers merging code which is then saved in a repository and automatically built and tested. If the build is successful, developers will be notified, and it will be moved to acceptance testing. Continuous delivery is an expansion of CI where code is automatically prepared for production with some manual approval of code changes. CI and CD are critical practices of DevOps where they reduce time to market and increase productivity and collaboration. 
 
 
+
+
+Azure Pipelines is a commonly used software that automates the testing and building of code for CI/CD operating on the cloud. Gitlab is a software repository which is a collaborative software devolvement environment commonly used for DevOps projects. The use of software repositories such as GitLab reduces merge conflicts by committing several code changes, thus avoiding ‘merge hell’ where software versions are conflicting. 
 
 
 
