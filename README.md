@@ -1,5 +1,5 @@
 # An explanation of continuous integration and continuous delivery (CI/CD)
-# Noah Philippe
+
 
 
 Continuous integration (CI) and continuous delivery (CD) are software development practices that rapidly deliver quality software products to end users. CI and CD are critical practices of DevOps where they reduce time to market and increase productivity and collaboration. Continuous integration is the process of developers merging code which is then saved in a repository and automatically built and tested. If the build is successful, developers will be notified, and it will be moved to acceptance testing. Continuous delivery is an expansion of CI where code is automatically prepared for production with some manual approval of code changes. Furthermore, continuous delivery also improves customer satisfaction since the ready release of software allows developers to fix bugs and meet user needs promptly.
@@ -20,3 +20,4 @@ Sources
 •	Rehkopf, M. (n.d.). Continuous integration tools: Top 7 comparison. Atlassian. https://www.atlassian.com/continuous-delivery/continuous-integration/tools
 •	Pittet, S. (n.d.). Continuous integration vs. delivery vs. deployment. Atlassian. https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
 •	(n.d.). katalon.com. https://katalon.com/
+Noah Philippe
